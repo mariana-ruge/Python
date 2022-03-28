@@ -1,0 +1,6 @@
+print("Juan");
+print("Hola Mundo");
+a = 2;
+print(a);
+b = 2;
+print(b);
